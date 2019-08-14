@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="267a5415-1c13-4218-bf24-2fb73562b131" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="146" selection-start-line="146" selection-end-line="146" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2.jar!/junit/textui/TestRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39795">
+              <caret line="2713" column="65" selection-start-line="2713" selection-start-column="65" selection-end-line="2713" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54900">
+              <caret line="3731" column="22" selection-start-line="3731" selection-start-column="22" selection-end-line="3731" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/RecursiveAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1965">
+              <caret line="164" column="52" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10155">
+              <caret line="725" column="46" selection-start-line="725" selection-start-column="46" selection-end-line="725" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="95" column="28" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11160">
+              <caret line="796" column="16" selection-start-line="796" selection-start-column="16" selection-end-line="796" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forkjoinpool</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ReciprocalArraySumTest.testParSimpleTwoMillion">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciprocalArraySumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miniproject_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciprocalArraySumTest.testParManyTaskTwoHundredMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miniproject_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
+      <option name="METHOD_NAME" value="testParManyTaskTwoHundredMillion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miniproject_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
+      <option name="METHOD_NAME" value="testParManyTaskTwoMillion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciprocalArraySumTest.testParSimpleTwoHundredMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miniproject_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
+      <option name="METHOD_NAME" value="testParSimpleTwoHundredMillion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReciprocalArraySumTest.testParSimpleTwoMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miniproject_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
+      <option name="METHOD_NAME" value="testParSimpleTwoMillion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReciprocalArraySumTest.testParSimpleTwoMillion" />
+        <item itemvalue="JUnit.ReciprocalArraySumTest" />
+        <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoHundredMillion" />
+        <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoMillion" />
+        <item itemvalue="JUnit.ReciprocalArraySumTest.testParSimpleTwoHundredMillion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="267a5415-1c13-4218-bf24-2fb73562b131" name="Default Changelist" comment="" />
+      <created>1563101761982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563101761982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReciprocalArraySumTest_testParSimpleTwoHundredMillion - 2019.07.16 at 20h 58m 24s.xml">
+      <configuration name="ReciprocalArraySumTest.testParSimpleTwoHundredMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2019.07.16 at 20h 58m 52s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2019.07.16 at 20h 59m 14s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2019.07.16 at 20h 59m 23s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2019.07.16 at 21h 02m 32s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2019.07.16 at 21h 03m 17s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2019.07.16 at 21h 04m 29s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoHundredMillion - 2019.07.16 at 21h 08m 28s.xml">
+      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoHundredMillion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest - 2019.07.16 at 22h 13m 20s.xml">
+      <configuration name="ReciprocalArraySumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParSimpleTwoMillion - 2019.07.16 at 22h 32m 44s.xml">
+      <configuration name="ReciprocalArraySumTest.testParSimpleTwoMillion" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4169329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.6739726" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.55342466" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>156</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="endIndexExclusive ==1007812 || startIndexInclusive == 1007812" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="chunk==1" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java</url>
+          <line>207</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>endIndexExclusive ==1007812 || startIndexInclusive == 1007812</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>endIndexExclusive &gt; 1000000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>endIndexExclusive==2000000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>chunk==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>endIndexExclusive=2000000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>startIndexInclusive&gt;=2000000 || endIndexExclusive&gt;=2000000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ArrayIndexOutOfBoundsException</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Thread.currentThread().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="76" column="75" selection-start-line="76" selection-start-column="75" selection-end-line="76" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2.jar!/junit/textui/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39795">
+          <caret line="2713" column="65" selection-start-line="2713" selection-start-column="65" selection-end-line="2713" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54900">
+          <caret line="3731" column="22" selection-start-line="3731" selection-start-column="22" selection-end-line="3731" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/RecursiveAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="164" column="52" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10155">
+          <caret line="725" column="46" selection-start-line="725" selection-start-column="46" selection-end-line="725" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="95" column="28" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11160">
+          <caret line="796" column="16" selection-start-line="796" selection-start-column="16" selection-end-line="796" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
