@@ -84,8 +84,7 @@ public final class ReciprocalArraySum {
     }
 
     /**
-     * This class stub can be filled in to implement the body of each task
-     * created to perform reciprocal array sum in parallel.
+     * Task created to perform reciprocal array sum in parallel.
      */
     private static class ReciprocalArraySumTask extends RecursiveAction {
 
@@ -175,10 +174,8 @@ public final class ReciprocalArraySum {
     }
 
     /**
-     * TODO: Extend the work you did to implement parArraySum to use a set
-     * number of tasks to compute the reciprocal array sum. You may find the
-     * above utilities getChunkStartInclusive and getChunkEndExclusive helpful
-     * in computing the range of element indices that belong to each chunk.
+     *  To implement parArraySum to use a set
+     * number of tasks to compute the reciprocal array sum. 
      *
      * @param input    Input array
      * @param numTasks The number of tasks to create
